@@ -1,0 +1,12 @@
+{
+	"name": "simple_video_streamer",
+	"engines": { "node": ">=18.0.0"},
+	"version": "1.0.0",
+	"description": "http server with web client for streaming videos in a directory",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"fluent-ffmpeg": "^2.1.2"
+	}
+}
