@@ -23,4 +23,11 @@ npm start <path-to-videos>
 node index.js <path-to-videos>
 ```
 
+There's also included a bash script `stream.sh` that you can symlink it somewhere in your path (e.g. `~/.local/bin`)
+
+```bash
+chmod +x stream.sh
+stream.sh <path-to-videos>
+```
+
 Now open the browser at http://localhost:3000
