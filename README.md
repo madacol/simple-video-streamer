@@ -4,7 +4,7 @@ This is a nodejs cli command that receives a directory of videos and fires up an
 
 It uses [fluent-ffmpeg](https://www.npmjs.com/package/fluent-ffmpeg) to reencode on-the-fly the videos to h264/aac mp4 format.
 
-All code is contained in the single file `index.js`.
+All code is contained in the single file `index.js` and it was mostly made with chatGPT, [see chat log](chatGPT.md)
 
 ## Installation
 
